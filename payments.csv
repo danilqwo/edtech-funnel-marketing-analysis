@@ -1,0 +1,164 @@
+payment_id,user_id,payment_date,plan_name,subscription_type,amount_eur,payment_status,refund_flag,acquisition_channel,campaign
+P00001,U00010,2026-04-02,Basic Materials,monthly,29.0,success,False,YouTube,yt_long_form
+P00002,U00028,2026-02-13,Basic Materials,monthly,29.0,success,False,Partner Referral,partner_creator
+P00003,U00047,2026-03-27,Basic Materials,monthly,29.0,success,False,YouTube,yt_pre_roll
+P00004,U00054,2026-02-02,Basic Materials,monthly,29.0,success,False,Telegram,tg_channel_post
+P00005,U00058,2026-03-02,Basic Materials,monthly,29.0,success,False,YouTube,yt_teacher_expert
+P00006,U00067,2026-03-20,Basic Materials,monthly,29.0,success,False,Google Ads,ga_competitor
+P00007,U00074,2026-03-07,Intensive Plan,monthly,149.0,success,False,Partner Referral,partner_blog
+P00008,U00075,2026-02-12,Basic Materials,monthly,29.0,failed,False,YouTube,yt_pre_roll
+P00009,U00081,2026-01-02,Basic Materials,monthly,29.0,success,False,Instagram,ig_story_discount
+P00010,U00082,2026-02-15,Speaking Club,monthly,49.0,success,False,YouTube,yt_long_form
+P00011,U00093,2026-02-13,Basic Materials,monthly,29.0,success,False,Partner Referral,partner_blog
+P00012,U00119,2026-02-15,Basic Materials,monthly,29.0,failed,False,YouTube,yt_pre_roll
+P00013,U00130,2026-01-12,Speaking Club,monthly,49.0,failed,False,Google Ads,ga_competitor
+P00014,U00131,2026-01-22,Speaking Club,monthly,49.0,success,False,Google Ads,ga_search_english_course
+P00015,U00142,2026-03-18,Basic Materials,monthly,29.0,failed,False,Partner Referral,partner_hr_benefit
+P00016,U00203,2026-03-15,Personal Tutor,monthly,99.0,failed,False,YouTube,yt_long_form
+P00017,U00209,2026-01-05,Speaking Club,monthly,49.0,success,False,YouTube,yt_long_form
+P00018,U00224,2026-02-28,Speaking Club,monthly,49.0,success,False,Partner Referral,partner_blog
+P00019,U00231,2026-01-29,Intensive Plan,quarterly,149.0,success,False,YouTube,yt_pre_roll
+P00020,U00233,2026-02-04,Speaking Club,monthly,49.0,success,False,Telegram,tg_webinar_invite
+P00021,U00238,2026-02-19,Basic Materials,monthly,29.0,success,False,Google Ads,ga_search_english_course
+P00022,U00251,2026-02-27,Intensive Plan,monthly,149.0,success,False,Google Ads,ga_search_english_course
+P00023,U00254,2026-02-16,Basic Materials,monthly,29.0,success,False,YouTube,yt_long_form
+P00024,U00263,2026-02-01,Basic Materials,monthly,29.0,success,False,YouTube,yt_pre_roll
+P00025,U00264,2026-01-16,Personal Tutor,monthly,99.0,failed,False,Partner Referral,partner_blog
+P00026,U00277,2026-01-16,Speaking Club,monthly,49.0,success,False,Google Ads,ga_competitor
+P00027,U00279,2026-01-21,Speaking Club,monthly,49.0,success,False,Google Ads,ga_brand
+P00028,U00289,2026-03-11,Basic Materials,monthly,29.0,success,False,Instagram,ig_story_discount
+P00029,U00295,2026-02-22,Basic Materials,monthly,29.0,success,False,YouTube,yt_long_form
+P00030,U00300,2026-02-09,Basic Materials,monthly,29.0,success,False,Partner Referral,partner_hr_benefit
+P00031,U00312,2026-01-04,Personal Tutor,quarterly,99.0,success,False,Partner Referral,partner_hr_benefit
+P00032,U00324,2026-03-03,Personal Tutor,monthly,99.0,success,False,Instagram,ig_story_discount
+P00033,U00327,2026-03-24,Intensive Plan,monthly,149.0,success,False,Telegram,tg_community_native
+P00034,U00333,2026-01-28,Personal Tutor,quarterly,99.0,success,False,Partner Referral,partner_hr_benefit
+P00035,U00341,2026-01-25,Basic Materials,monthly,29.0,success,False,Google Ads,ga_search_english_course
+P00036,U00354,2026-02-20,Basic Materials,monthly,29.0,success,False,YouTube,yt_teacher_expert
+P00037,U00356,2026-03-27,Speaking Club,monthly,49.0,success,False,Telegram,tg_community_native
+P00038,U00362,2026-02-19,Basic Materials,monthly,29.0,failed,False,Instagram,ig_story_discount
+P00039,U00385,2026-02-19,Basic Materials,monthly,29.0,success,False,Google Ads,ga_competitor
+P00040,U00388,2026-01-25,Basic Materials,monthly,29.0,failed,False,Instagram,ig_reels_beginner
+P00041,U00390,2026-02-17,Intensive Plan,quarterly,149.0,success,False,YouTube,yt_long_form
+P00042,U00391,2026-02-24,Basic Materials,monthly,29.0,success,False,Telegram,tg_community_native
+P00043,U00394,2026-03-23,Speaking Club,monthly,49.0,success,False,Partner Referral,partner_creator
+P00044,U00406,2026-03-21,Speaking Club,monthly,49.0,success,True,Telegram,tg_channel_post
+P00045,U00425,2026-01-08,Basic Materials,monthly,29.0,success,False,Google Ads,ga_competitor
+P00046,U00430,2026-01-10,Speaking Club,monthly,49.0,success,False,Instagram,ig_story_discount
+P00047,U00443,2026-02-13,Speaking Club,monthly,49.0,success,False,Partner Referral,partner_creator
+P00048,U00445,2026-02-08,Speaking Club,monthly,49.0,success,False,YouTube,yt_teacher_expert
+P00049,U00457,2026-01-20,Personal Tutor,monthly,99.0,success,False,Google Ads,ga_competitor
+P00050,U00477,2026-03-06,Personal Tutor,monthly,99.0,success,False,Partner Referral,partner_blog
+P00051,U00480,2026-03-13,Speaking Club,monthly,49.0,failed,False,TikTok,tt_viral_test
+P00052,U00481,2026-02-20,Speaking Club,monthly,49.0,success,False,YouTube,yt_long_form
+P00053,U00501,2026-01-20,Speaking Club,monthly,49.0,success,False,Google Ads,ga_search_english_course
+P00054,U00502,2026-01-30,Basic Materials,monthly,29.0,success,False,Partner Referral,partner_blog
+P00055,U00503,2026-02-12,Basic Materials,monthly,29.0,failed,False,Instagram,ig_reels_beginner
+P00056,U00518,2026-01-16,Basic Materials,monthly,29.0,success,False,Instagram,ig_reels_beginner
+P00057,U00529,2026-01-28,Speaking Club,monthly,49.0,success,False,YouTube,yt_teacher_expert
+P00058,U00539,2026-03-26,Personal Tutor,monthly,99.0,success,False,Partner Referral,partner_creator
+P00059,U00557,2026-01-05,Personal Tutor,monthly,99.0,failed,False,Google Ads,ga_search_english_course
+P00060,U00559,2026-01-17,Basic Materials,monthly,29.0,success,False,Google Ads,ga_brand
+P00061,U00563,2026-03-06,Basic Materials,monthly,29.0,success,False,Telegram,tg_webinar_invite
+P00062,U00577,2026-03-18,Speaking Club,monthly,49.0,success,False,YouTube,yt_teacher_expert
+P00063,U00593,2026-03-29,Basic Materials,monthly,29.0,success,False,Telegram,tg_community_native
+P00064,U00611,2026-02-03,Basic Materials,monthly,29.0,success,False,Partner Referral,partner_creator
+P00065,U00612,2026-01-28,Speaking Club,monthly,49.0,success,False,Telegram,tg_community_native
+P00066,U00626,2026-01-25,Personal Tutor,monthly,99.0,success,False,Partner Referral,partner_blog
+P00067,U00627,2026-02-11,Speaking Club,monthly,49.0,success,False,Instagram,ig_story_discount
+P00068,U00631,2026-04-02,Speaking Club,monthly,49.0,failed,False,YouTube,yt_long_form
+P00069,U00636,2026-01-22,Basic Materials,monthly,29.0,success,False,YouTube,yt_pre_roll
+P00070,U00637,2026-01-11,Basic Materials,monthly,29.0,success,False,Partner Referral,partner_hr_benefit
+P00071,U00645,2026-03-09,Personal Tutor,quarterly,99.0,success,False,Partner Referral,partner_blog
+P00072,U00650,2026-02-18,Basic Materials,monthly,29.0,success,False,Telegram,tg_community_native
+P00073,U00658,2026-01-23,Basic Materials,monthly,29.0,failed,False,Google Ads,ga_competitor
+P00074,U00677,2026-02-05,Personal Tutor,monthly,99.0,failed,False,Google Ads,ga_search_english_course
+P00075,U00678,2026-01-14,Speaking Club,monthly,49.0,success,False,YouTube,yt_long_form
+P00076,U00680,2026-02-11,Basic Materials,monthly,29.0,success,False,YouTube,yt_pre_roll
+P00077,U00688,2026-03-27,Speaking Club,monthly,49.0,success,True,Telegram,tg_channel_post
+P00078,U00694,2026-03-06,Personal Tutor,monthly,99.0,failed,False,Instagram,ig_lookalike_students
+P00079,U00697,2026-02-10,Basic Materials,monthly,29.0,success,False,Google Ads,ga_competitor
+P00080,U00700,2026-02-12,Basic Materials,monthly,29.0,success,False,Partner Referral,partner_blog
+P00081,U00701,2026-01-21,Personal Tutor,quarterly,99.0,success,False,TikTok,tt_viral_test
+P00082,U00712,2026-03-06,Personal Tutor,quarterly,99.0,success,False,Partner Referral,partner_blog
+P00083,U00717,2026-01-31,Basic Materials,monthly,29.0,failed,False,YouTube,yt_teacher_expert
+P00084,U00733,2026-03-16,Speaking Club,monthly,49.0,success,False,Telegram,tg_channel_post
+P00085,U00752,2026-01-18,Basic Materials,monthly,29.0,success,False,Instagram,ig_story_discount
+P00086,U00761,2026-02-08,Basic Materials,monthly,29.0,success,False,Partner Referral,partner_creator
+P00087,U00765,2026-03-16,Personal Tutor,monthly,99.0,success,False,Telegram,tg_community_native
+P00088,U00782,2026-01-24,Intensive Plan,monthly,149.0,success,False,Telegram,tg_channel_post
+P00089,U00783,2026-02-12,Personal Tutor,quarterly,99.0,success,False,Telegram,tg_channel_post
+P00090,U00799,2026-03-14,Speaking Club,monthly,49.0,success,False,Google Ads,ga_brand
+P00091,U00810,2026-01-19,Speaking Club,monthly,49.0,failed,False,Partner Referral,partner_hr_benefit
+P00092,U00814,2026-02-28,Intensive Plan,monthly,149.0,success,False,Partner Referral,partner_hr_benefit
+P00093,U00821,2026-02-19,Basic Materials,monthly,29.0,success,False,TikTok,tt_viral_test
+P00094,U00827,2026-01-06,Personal Tutor,monthly,99.0,failed,False,Instagram,ig_story_discount
+P00095,U00830,2026-01-19,Personal Tutor,monthly,99.0,success,False,Telegram,tg_webinar_invite
+P00096,U00831,2026-01-07,Basic Materials,monthly,29.0,success,False,Partner Referral,partner_creator
+P00097,U00836,2026-01-27,Basic Materials,monthly,29.0,success,False,Telegram,tg_channel_post
+P00098,U00841,2026-01-10,Basic Materials,monthly,29.0,success,False,Telegram,tg_channel_post
+P00099,U00849,2026-03-02,Basic Materials,monthly,29.0,failed,False,TikTok,tt_discount_challenge
+P00100,U00879,2026-01-26,Basic Materials,monthly,29.0,success,False,Google Ads,ga_brand
+P00101,U00903,2026-03-16,Speaking Club,monthly,49.0,success,True,Telegram,tg_webinar_invite
+P00102,U00910,2026-02-27,Intensive Plan,monthly,149.0,success,False,Partner Referral,partner_creator
+P00103,U00929,2026-01-24,Personal Tutor,monthly,99.0,success,False,YouTube,yt_teacher_expert
+P00104,U00933,2026-03-02,Personal Tutor,quarterly,99.0,success,False,Partner Referral,partner_blog
+P00105,U00943,2026-02-24,Speaking Club,monthly,49.0,success,False,Partner Referral,partner_blog
+P00106,U00995,2026-03-13,Basic Materials,monthly,29.0,success,False,YouTube,yt_teacher_expert
+P00107,U01006,2026-02-13,Basic Materials,monthly,29.0,success,False,YouTube,yt_pre_roll
+P00108,U01012,2026-01-18,Intensive Plan,monthly,149.0,success,False,Partner Referral,partner_creator
+P00109,U01013,2026-01-22,Speaking Club,monthly,49.0,failed,False,Telegram,tg_community_native
+P00110,U01015,2026-03-03,Speaking Club,monthly,49.0,success,False,Instagram,ig_reels_beginner
+P00111,U01021,2026-02-26,Personal Tutor,quarterly,99.0,success,False,Partner Referral,partner_blog
+P00112,U01023,2026-02-22,Personal Tutor,monthly,99.0,success,False,Google Ads,ga_brand
+P00113,U01032,2026-01-21,Speaking Club,monthly,49.0,failed,False,YouTube,yt_pre_roll
+P00114,U01043,2026-03-04,Basic Materials,monthly,29.0,success,False,Partner Referral,partner_blog
+P00115,U01046,2026-04-02,Personal Tutor,monthly,99.0,success,False,Telegram,tg_channel_post
+P00116,U01055,2026-03-24,Basic Materials,monthly,29.0,failed,False,Telegram,tg_webinar_invite
+P00117,U01065,2026-01-26,Speaking Club,monthly,49.0,failed,False,Google Ads,ga_brand
+P00118,U01069,2026-02-25,Basic Materials,monthly,29.0,success,False,Telegram,tg_webinar_invite
+P00119,U01070,2026-01-08,Basic Materials,monthly,29.0,failed,False,Instagram,ig_reels_beginner
+P00120,U01083,2026-01-05,Intensive Plan,monthly,149.0,failed,False,Telegram,tg_webinar_invite
+P00121,U01086,2026-02-13,Speaking Club,monthly,49.0,success,False,Instagram,ig_lookalike_students
+P00122,U01103,2026-01-28,Speaking Club,monthly,49.0,success,False,Telegram,tg_channel_post
+P00123,U01106,2026-03-17,Personal Tutor,quarterly,99.0,success,False,YouTube,yt_pre_roll
+P00124,U01131,2026-01-21,Speaking Club,monthly,49.0,success,False,Partner Referral,partner_hr_benefit
+P00125,U01150,2026-01-04,Speaking Club,monthly,49.0,success,False,Telegram,tg_community_native
+P00126,U01151,2026-03-18,Personal Tutor,monthly,99.0,failed,False,Telegram,tg_community_native
+P00127,U01156,2026-01-31,Basic Materials,monthly,29.0,success,False,Partner Referral,partner_hr_benefit
+P00128,U01175,2026-01-10,Intensive Plan,monthly,149.0,success,False,Google Ads,ga_search_english_course
+P00129,U01177,2026-01-03,Speaking Club,monthly,49.0,failed,False,Instagram,ig_story_discount
+P00130,U01181,2026-01-31,Personal Tutor,monthly,99.0,failed,False,Telegram,tg_community_native
+P00131,U01186,2026-02-25,Basic Materials,monthly,29.0,failed,False,Instagram,ig_lookalike_students
+P00132,U01195,2026-03-05,Basic Materials,monthly,29.0,success,False,Partner Referral,partner_creator
+P00133,U01208,2026-03-08,Intensive Plan,monthly,149.0,success,False,Google Ads,ga_search_english_course
+P00134,U01214,2026-01-11,Personal Tutor,quarterly,99.0,success,False,Telegram,tg_webinar_invite
+P00135,U01217,2026-03-22,Speaking Club,monthly,49.0,success,False,Telegram,tg_webinar_invite
+P00136,U01220,2026-01-23,Basic Materials,monthly,29.0,success,False,YouTube,yt_teacher_expert
+P00137,U01241,2026-02-19,Personal Tutor,quarterly,99.0,success,True,Telegram,tg_channel_post
+P00138,U01248,2026-01-06,Basic Materials,monthly,29.0,failed,False,TikTok,tt_discount_challenge
+P00139,U01258,2026-01-24,Speaking Club,monthly,49.0,success,False,Partner Referral,partner_creator
+P00140,U01259,2026-03-31,Personal Tutor,monthly,99.0,success,False,Google Ads,ga_search_english_course
+P00141,U01268,2026-03-23,Basic Materials,monthly,29.0,success,False,YouTube,yt_long_form
+P00142,U01273,2026-02-17,Personal Tutor,monthly,99.0,failed,False,Telegram,tg_channel_post
+P00143,U01295,2026-03-04,Personal Tutor,quarterly,99.0,success,False,Google Ads,ga_competitor
+P00144,U01320,2026-01-24,Basic Materials,monthly,29.0,success,False,Telegram,tg_channel_post
+P00145,U01322,2026-02-26,Personal Tutor,quarterly,99.0,success,False,Instagram,ig_lookalike_students
+P00146,U01338,2026-02-12,Basic Materials,monthly,29.0,success,False,Telegram,tg_webinar_invite
+P00147,U01352,2026-01-12,Speaking Club,monthly,49.0,success,False,TikTok,tt_discount_challenge
+P00148,U01359,2026-02-09,Basic Materials,monthly,29.0,success,False,Google Ads,ga_brand
+P00149,U01396,2026-02-20,Personal Tutor,monthly,99.0,failed,False,Google Ads,ga_search_english_course
+P00150,U01397,2026-02-18,Intensive Plan,monthly,149.0,failed,False,Google Ads,ga_search_english_course
+P00151,U01401,2026-03-13,Speaking Club,monthly,49.0,success,False,Google Ads,ga_search_english_course
+P00152,U01402,2026-02-08,Basic Materials,monthly,29.0,success,True,Telegram,tg_community_native
+P00153,U01404,2026-04-01,Personal Tutor,quarterly,99.0,success,False,Partner Referral,partner_creator
+P00154,U01423,2026-03-06,Personal Tutor,monthly,99.0,failed,False,Telegram,tg_channel_post
+P00155,U01438,2026-02-15,Speaking Club,monthly,49.0,success,False,Google Ads,ga_competitor
+P00156,U01440,2026-01-06,Basic Materials,monthly,29.0,success,False,Instagram,ig_story_discount
+P00157,U01448,2026-02-09,Speaking Club,monthly,49.0,failed,False,Google Ads,ga_competitor
+P00158,U01456,2026-02-15,Basic Materials,monthly,29.0,success,False,YouTube,yt_pre_roll
+P00159,U01472,2026-03-16,Personal Tutor,monthly,99.0,failed,False,Google Ads,ga_brand
+P00160,U01480,2026-03-01,Basic Materials,monthly,29.0,success,False,Partner Referral,partner_creator
+P00161,U01489,2026-02-26,Basic Materials,monthly,29.0,failed,False,Instagram,ig_reels_beginner
+P00162,U01492,2026-02-19,Speaking Club,monthly,49.0,success,False,Telegram,tg_webinar_invite
+P00163,U01494,2026-03-08,Speaking Club,monthly,49.0,success,True,YouTube,yt_teacher_expert
